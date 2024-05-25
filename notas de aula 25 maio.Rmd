@@ -1,0 +1,15 @@
+---
+title: "Projeto de extensao"
+output: html_document
+date: "2024-05-25"
+---
+
+# notas de aula
+
+##definicao de extensao
+
+### si' da extensao
+
+1)interacao dialogica 
+2)interdiciplinariedade/interprofisionaliedade  
+3)
